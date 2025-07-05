@@ -1,0 +1,6 @@
+# Dataset definition for YOLOv8 training (ball detection)
+train: ball_dataset/images/train
+val: ball_dataset/images/val
+
+nc: 1
+names: ['ball']
