@@ -25,7 +25,7 @@
 <p align="center">Segue un output generato dal programma che mostra il tracking di giocatori e pallina tramite bounding boxes, e i 14 keypoints estratti dalle intersezioni delle linee di campo:</p>
 
 <p align="center">
-  <img src="media\2_out_gif.gif"/>
+  <img src="media\2_out_gif.gif" width=550/>
 </p>
 
 <br><br>
